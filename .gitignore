@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/workspace.xml
+.idea/shelf/
+.idea/tasks.xml
+
+# Compilación
+target/
+out/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
