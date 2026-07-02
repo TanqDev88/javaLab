@@ -22,3 +22,26 @@ To solidify Java fundamentals through practical exercises, unit testing, and bes
 - Multithreading and Concurrency
 - JDBC
 - Algorithms
+
+  ## Project Structure
+![Image text](https://github.com/TanqDev88/javaLab/blob/main/ProjectStructure.png)
+
+The exercises are organized by topic, and each one includes its corresponding unit tests using JUnit.
+
+## How to Run the Tests
+
+```bash
+mvn test
+```
+
+## Requirements
+
+- JDK 17 or higher
+- Apache Maven 3.9+
+- IntelliJ IDEA (recommended)
+
+## Status
+
+🚧 Under development. This repository grows as I progress in my Java Backend training.
+
+
